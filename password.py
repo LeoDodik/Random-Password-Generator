@@ -24,7 +24,7 @@ for char in range(1,nr_symbols + 1):
 
 
 
-print(random.shuffle(password))
+print(password)
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
